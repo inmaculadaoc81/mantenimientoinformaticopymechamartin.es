@@ -384,3 +384,15 @@ repositorios de la familia (centralita compartida).
 COLOR: sin cambios en esta pasada (el cliente no pidió modificarlo
 para esta marca); se mantiene la paleta azul/cian estándar de la
 plantilla PymeTech de origen.
+
+AJUSTES ADICIONALES (a petición del cliente, criterio de Isra):
+- H1 reescrito a uno propio de 9 palabras exactas (antes compartía el
+  mismo H1 genérico de 8 palabras heredado de la plantilla PymeTech,
+  "Menos problemas técnicos. Más tiempo para tu empresa."): "Solucionamos
+  tus problemas técnicos antes de que pierdas tiempo." — cumple además
+  la regla de la familia de no repetir el mismo H1 en varios
+  repositorios.
+- Menú (escritorio y móvil): el enlace "Reunión" → "Agenda una cita"
+  (mismo destino, #cita). El texto del botón CTA del hero ("Agenda una
+  reunión y cuéntanos qué está frenando a tu empresa") no se ha
+  tocado, ya que la indicación era específica para el menú.
