@@ -348,3 +348,39 @@ choque con el H1):
   degradado de desvanecido) siempre queda contenido dentro del hueco
   entre el texto y la tarjeta de contacto, sin importar el ancho de
   viewport.
+
+────────────────────────────────────────────────────────────
+ADAPTACIÓN A PYMECARE | MANTENIMIENTO INFORMÁTICO CHAMARTÍN
+(repositorio clonado a partir de la plantilla de PymeTech/Tetuán; se
+readapta para esta nueva marca/zona)
+────────────────────────────────────────────────────────────
+
+MARCA Y TEXTOS:
+- "PymeTech" → "PymeCare" en cabecera, pie de página, JSON-LD (name) y
+  mensaje prellenado de WhatsApp ("¡Hola PymeCare") en el CTA del hero
+  y en el botón flotante.
+- Title: "PymeCare | Mantenimiento Informático Chamartín" (texto
+  exacto indicado por el cliente para SEO).
+- Meta description y og:description reescritas mencionando Chamartín,
+  Madrid.
+- Fila "Zona" de la tarjeta de contacto: "Tetuán, Madrid" →
+  "Chamartín, Madrid".
+- FAQ "¿Trabajáis solo en Madrid?" → "¿Trabajáis solo en Chamartín?",
+  respuesta ampliada a "Chamartín y el resto de Madrid".
+- JSON-LD: description y areaServed actualizados a Chamartín, Madrid.
+
+DOMINIO Y ENLACES:
+- canonical, og:url y JSON-LD "url" → https://mantenimientoinformaticopymechamartin.es/
+  (dominio indicado directamente por el cliente).
+- sitemap.xml y robots.txt actualizados al nuevo dominio.
+- Enlace de Google Maps actualizado en las 4 ubicaciones del sitio a
+  https://maps.app.goo.gl/5JzmMqHhXtt3auMh7, proporcionado por el
+  cliente.
+
+TELÉFONO Y WHATSAPP: sin cambios (+34 649 97 01 28 / +34 914 46 85 03)
+— confirmado por el cliente que el teléfono es el mismo para todos los
+repositorios de la familia (centralita compartida).
+
+COLOR: sin cambios en esta pasada (el cliente no pidió modificarlo
+para esta marca); se mantiene la paleta azul/cian estándar de la
+plantilla PymeTech de origen.
