@@ -396,3 +396,19 @@ AJUSTES ADICIONALES (a petición del cliente, criterio de Isra):
   (mismo destino, #cita). El texto del botón CTA del hero ("Agenda una
   reunión y cuéntanos qué está frenando a tu empresa") no se ha
   tocado, ya que la indicación era específica para el menú.
+
+AJUSTES ADICIONALES (a petición del cliente, aplicado igual en los 3
+repositorios de la familia):
+- H1: tamaño reducido 8px (clamp(52-70px) → clamp(44-62px)); el texto
+  del H1 no se toca (ya tiene su propio H1 de 9 palabras de la pasada
+  anterior).
+- Tarjeta de información de contacto: el h2 ahora muestra siempre el
+  título exacto de la web (el mismo que el <title> y el nombre de la
+  ficha de Google Business): "PymeCare | Mantenimiento Informático
+  Chamartín". Añadido line-height:1.25 a .info h2.
+- Menú (escritorio y móvil): se afina de "Agenda una cita" (pasada
+  anterior) a "Agendar cita".
+- Sección de reserva de cita (#cita): el kicker "Si quieres verlo con
+  calma" → "Asesoramiento gratuito".
+- Redacción siguiendo el criterio de Isra Bravo (directo, sin relleno,
+  orientado a beneficio) en los textos tocados en esta pasada.
